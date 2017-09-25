@@ -1,0 +1,5 @@
+C:\MyDOC\Проекты\C#\Developer\FibonachProj\FibonachProj\obj\Debug\ResolveAssemblyReference.cache
+C:\MyDOC\Проекты\C#\Developer\FibonachProj\FibonachProj\bin\Debug\FibonachProj.exe
+C:\MyDOC\Проекты\C#\Developer\FibonachProj\FibonachProj\bin\Debug\FibonachProj.pdb
+C:\MyDOC\Проекты\C#\Developer\FibonachProj\FibonachProj\obj\Debug\FibonachProj.exe
+C:\MyDOC\Проекты\C#\Developer\FibonachProj\FibonachProj\obj\Debug\FibonachProj.pdb
